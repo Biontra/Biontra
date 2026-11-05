@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey, I'm Kaan 👋
 
-<!--
-**Biontra/Biontra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science Student
 
-Here are some ideas to get you started:
+🚀 Interested in Artificial Intelligence, Cybersecurity, and Software Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 What I'm Exploring
+- 🤖 AI Agents & Automation
+- 🛡️ Cybersecurity
+- 🐍 Python & Software Development
+- 🌐 Building Real-World Projects
+
+### 🎯 My Goal
+Turning ideas into functional projects, learning by building, and continuously improving my skills.
+
+### 🛠️ Tech & Tools
+Python • GitHub • AI Tools • Automation
+
+---
+*Always learning. Always building.*
